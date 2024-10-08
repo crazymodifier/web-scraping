@@ -1,0 +1,31 @@
+
+.table {
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 25px;
+    margin: 2rem 0;
+    box-shadow: 0 2px 10px #ccc;
+  }
+  table, th, td, tr {
+    border: 1px solid #ccc !important;
+    border-collapse: collapse !important;
+    text-align: left;
+    
+  }
+  th, td{
+    padding: 10px 15px !important;
+  }
+
+  
+.wbs-form-group {
+  margin-bottom: 1rem;
+}
+.wbs-form-group .wbs-label{
+  display: block;
+  margin-bottom: .3rem;
+  font-weight: 700;
+}
+.wbs-form-group .wbs-input{
+  display: block;
+  width: 100%;
+}

@@ -1,0 +1,20 @@
+{
+    "name": "attsoftware/web_scraping",
+    "description": "A Web Scraping plugin",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "php": "^7.3",
+        "symfony/panther": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suraj Kumar",
+            "email": "suraj.kumar@attsoftware.com"
+        }
+    ],
+    "require-dev": {
+        "dbrekelmans/bdi": "^0.3.0"
+    }
+}
